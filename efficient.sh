@@ -1,0 +1,2 @@
+javac EfficientStringAlignment.java
+java EfficientStringAlignment input.txt

@@ -1,0 +1,2 @@
+javac BasicStringAlignment.java
+java BasicStringAlignment input.txt
